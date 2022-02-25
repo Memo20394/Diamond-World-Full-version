@@ -1,6 +1,7 @@
 # Scratch Diamond world game
 How to play?
-1.Download RobboScratch3
+1.Download 
+Scratch3
 2.Load project and play
 Warning
 Your computer spec
